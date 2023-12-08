@@ -1,0 +1,4 @@
+youtube google api = AIzaSyD3OKXBgbISUTaGYpEa-TPzXj5BBKwxJd4
+youtube kanal kimliği=UC10mc2SaGdeEY46tLxR2-VA
+youtube kullanıcı kimliği=10mc2SaGdeEY46tLxR2-VA
+örnek list id=PLHHq0UkPfqud2eVvGy0aDNkEH_aKWggYH
